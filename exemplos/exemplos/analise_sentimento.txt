@@ -1,0 +1,11 @@
+Análise de sentimento realizada pelo Azure Language Studio:
+
+Texto analisado:
+"Bom dia, gostaria de agendar um horário para revisão do meu veículo. Estou disponível na terça-feira à tarde. Pode verificar se há vagas disponíveis nesse período, por favor?"
+
+Resultado:
+- Sentimento geral: Positivo
+- Confiança:
+  - Positivo: 87%
+  - Neutro: 10%
+  - Negativo: 3%
