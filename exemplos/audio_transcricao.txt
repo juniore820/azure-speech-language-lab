@@ -1,0 +1,3 @@
+Transcrição gerada pelo Azure Speech Studio:
+
+"Bom dia, gostaria de agendar um horário para revisão do meu veículo. Estou disponível na terça-feira à tarde. Pode verificar se há vagas disponíveis nesse período, por favor?"
