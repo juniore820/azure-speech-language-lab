@@ -1,0 +1,8 @@
+Entidades detectadas no texto pelo Azure Language Studio:
+
+- Tipo: Data
+  - Entidade: terça-feira à tarde
+- Tipo: Serviço
+  - Entidade: revisão do meu veículo
+- Tipo: Saudação
+  - Entidade: Bom dia
